@@ -1,10 +1,6 @@
 {
   "name": "flightjs",
   "version": "1.5.1",
-  "main": "build/flight.js",
-  "files": [
-    "build/flight.js"
-  ],
   "devDependencies": {
     "jscs" : "^1.5.8",
     "karma": "~0.12.6",

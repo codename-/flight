@@ -1,5 +1,5 @@
 {
-  "name": "flightjs",
+  "name": "flight",
   "version": "1.5.1",
   "devDependencies": {
     "jscs" : "^1.5.8",
